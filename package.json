@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/thinkful-ei-iguana/Krystle-Angel-Buggy-Drill#readme",
   "dependencies": {
-    "debug": "^4.1.1"
+    "debug": "^4.3.1"
   }
 }
